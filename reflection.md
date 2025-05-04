@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-This assignment helped me practice reading different file formats into pandas and building an interactive Streamlit app to explore datasets. I feel more comfortable working with file uploads, dataframe filtering, and displaying statistics dynamically.
+This assignment helped me learn how to build a simple yet powerful data exploration tool using pandas and Streamlit. I got hands-on practice working with different file formats, filtering data dynamically, and displaying both raw and summary statistics interactively. It was a good exercise in combining backend logic with a clean user interface, and showed how flexible Streamlit can be for quick data apps.
